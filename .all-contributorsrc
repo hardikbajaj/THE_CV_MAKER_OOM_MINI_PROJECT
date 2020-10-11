@@ -1,0 +1,51 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "siddhantdrk",
+      "name": "Siddhantdrk",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58393179?v=4",
+      "profile": "https://www.linkedin.com/in/siddhant-khobragade-582a76174/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Mandar16",
+      "name": "Mandar16",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58388338?v=4",
+      "profile": "https://github.com/Mandar16",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Devildarkfire",
+      "name": "Devildarkfire",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/58392520?v=4",
+      "profile": "https://github.com/Devildarkfire",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hardikbajaj",
+      "name": "hardikbajaj",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/58038410?v=4",
+      "profile": "https://github.com/hardikbajaj",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "THE_CV_MAKER_OOM_MINI_PROJECT",
+  "projectOwner": "siddhantdrk",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
